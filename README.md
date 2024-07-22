@@ -20,8 +20,10 @@ While looking back at how you did something before that you know works is a vali
 
 ## Tasks
 
-[ ] get the cat images to show
+[ ] Get all 3 cat images to display. Hint: which HTML tag is used for images and which attribute is used to designate where an image can be found? Where are the images located in the codebase?
 
-[ ] fix all errors in the console
+[ ] Fix all errors in the console. There is one to start. Look at the error. It will say what the error is, what file it is located in, and what line the error occurred. For example, when you see `script.js:3.6` it means that the error occured in the script.js file on line 3.
 
-[ ] each cat should be deleted when clicked
+[ ] The first cat says "Whiskers" but it should say "Delilah". The code is on line 6 but it is missing the correct id in the `getElementById` method.
+
+[ ] Each cat should be deleted when clicked. The first code block starting on line 9 is missing the id and the specific event in `addEventListener`. The second one is just missing the event. The third one needs to be written.
